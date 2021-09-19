@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 - 📫 Can reach me out at gprakhar579@gmail.com/ https://www.linkedin.com/in/gprak/
 
 [![Prakhar's github stats](https://github-readme-stats.vercel.app/api?username=gprakhar579&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/gprakhar579/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gprakhar579)](https://github.com/gprakhar579/github-readme-stats)
