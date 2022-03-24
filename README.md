@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-**gprakhar579/gprakhar579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 Currently working on Embodied AI tasks- Instruction following using Vision and Natural Language. Working on Language Understanding and Scene graph creation.
